@@ -4,7 +4,7 @@
 * Navigate in your git repository and open bash.
 * Connect the module:
 ```console
-z mod https://github.com/zetproject/zmodule_example.git
+z mod https://github.com/zetproject/zmodule_example.git master
 ```
 ## How to use it
 ```console
